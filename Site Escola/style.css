@@ -2,7 +2,21 @@ body {
     background-image: linear-gradient(#383D58, #00c0eb);
     color: white;
     font-family: 'Poppins', sans-serif;
+
 }
 .escola-imagem{
     width: 25%;
 } 
+
+.frenteescola {
+    height: 500px;
+    
+}
+
+.escola-texto-um {
+    display: flex;
+}
+
+.texto-sobre {
+    display: flex;
+}
