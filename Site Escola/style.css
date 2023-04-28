@@ -5,18 +5,25 @@ body {
 
 }
 .escola-imagem{
-    width: 25%;
+    display: flex;
+    width: 10%;
 } 
 
 .frenteescola {
     height: 500px;
-    
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
 }
 
 .escola-texto-um {
-    display: flex;
+    
 }
 
 .texto-sobre {
-    display: flex;
+    
+}
+
+footer {
+    text-align: left;
 }
