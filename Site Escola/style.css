@@ -6,7 +6,7 @@ body {
 }
 .escola-imagem{
     display: flex;
-    width: 10%;
+    width: 100px;
 } 
 
 .frenteescola {
@@ -26,4 +26,11 @@ body {
 
 footer {
     text-align: left;
+}
+
+.fotoalunos{
+    height: 400px;
+    float: right;
+    padding: 10px;
+    border: transparent thin solid
 }
